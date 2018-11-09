@@ -1,6 +1,6 @@
 -- Round of 10 --
 TM  2 - 3 EG
-CHF 0 - 0 PSG
+CHF 3 - 2 PSG
 
 -- Quarterfinal --
 G2  0 - 0 F3
