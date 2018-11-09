@@ -4,6 +4,6 @@ CHF 3 - 2 PSG
 
 -- Quarterfinal --
 G2  2 - 3 F3 
-WDG 0 - 0 C9 
+WDG 3 - 2 C9 
 DIG 0 - 0 EG 
 NRG 0 - 0 CHF
