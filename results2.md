@@ -1,5 +1,5 @@
 -- Loser's R1 --
-TM  0 - 0 WDG/C9
+TM  0 - 0 C9
 PSG 0 - 0 G2
 
 -- Semi Final --
