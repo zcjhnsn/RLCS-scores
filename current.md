@@ -1,1 +1,1 @@
-DIG 0 - 0 EG
+DIG 1 - 1 EG
