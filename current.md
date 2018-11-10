@@ -1,1 +1,1 @@
-DIG 3 - 1 F3
+WDG 0 - 0 CHF
