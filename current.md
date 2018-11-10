@@ -1,1 +1,1 @@
-NRG 2 - 1 CHF
+NRG 2 - 2 CHF
