@@ -1,1 +1,1 @@
-WDG 0 - 0 CHF
+WDG 1 - 0 CHF
