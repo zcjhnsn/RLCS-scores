@@ -3,9 +3,9 @@ TM  0 - 0 C9
 PSG 0 - 0 G2
 
 -- Semi Final --
-TBD 0 - 0 TBD
-TBD 0 - 0 TBD
+DIG 0 - 0 F3
+CHF 0 - 0 WDG
 
 -- Loser's R2 --
-TBD 0 - 0 TBD
-TBD 0 - 0 TBD
+NRG 0 - 0 DIG/F3
+EG  0 - 0 WDG/CHF
