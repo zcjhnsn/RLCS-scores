@@ -1,6 +1,6 @@
 -- Semi Final --
 DIG 3 - 1 F3
-CHF 0 - 0 WDG
+CHF 0 - 3 WDG
 
 -- Loser's R1 --
 TM  0 - 0 C9
