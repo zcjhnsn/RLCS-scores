@@ -6,4 +6,4 @@ CHF 3 - 2 PSG
 G2  2 - 3 F3 
 WDG 3 - 2 C9 
 DIG 3 - 2 EG 
-NRG 0 - 0 CHF
+NRG 2 - 3 CHF
